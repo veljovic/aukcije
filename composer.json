@@ -1,0 +1,16 @@
+{
+    "name": "aco/aukcije",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Veljovic Aleksandar",
+            "email": "veljovic.aco@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"App\\": ""
+    	}
+    }
+}
